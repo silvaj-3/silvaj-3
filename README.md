@@ -1,4 +1,5 @@
 ¡Hola! Soy Juan Manuel 👋
+
 🛡️ Aspirante a Analista de Ciberseguridad & Estudiante de ASIR
 Actualmente cursando el Grado Superior en Administración de Sistemas Informáticos en Red (ASIR). Compagino mi formación oficial con el Certificado de Ciberseguridad de Google para fortalecer mis habilidades técnicas.
 
