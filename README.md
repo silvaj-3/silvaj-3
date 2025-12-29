@@ -14,4 +14,5 @@ Actualmente cursando el Grado Superior en Administración de Sistemas Informáti
 ⚡ Intereses: Seguridad ofensiva, monitorización de eventos y arquitectura de sistemas.
 
 🛠️ Tecnologías y Herramientas
+
 📫 Cómo contactarme: www.linkedin.com/in/jgarciasilva
